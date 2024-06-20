@@ -1,0 +1,15 @@
+{
+    "name": "baywa-re-lusy/user-subsidiary-model",
+    "description": "BayWa r.e. LUSY User/Subsidiary model",
+    "type": "library",
+    "license": "proprietary",
+    "homepage": "https://github.com/baywa-re-lusy/user-subsidiary-model",
+    "require": {
+        "php": ">= 8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "BayWaReLusy\\UserSubsidiaryModel\\": "src/UserSubsidiaryModel/"
+        }
+    }
+}
